@@ -32,6 +32,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.7.0
 jedi==0.18.1
 Jinja2==3.1.2
+joblib==1.1.0
 jsonschema==4.6.0
 jupyter-client==7.3.2
 jupyter-core==4.10.0
@@ -68,13 +69,9 @@ Pympler==1.0.1
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
-pytz==2022.1
-pytz-deprecation-shim==0.1.0.post0
-pywin32==304
-pywinpty==2.0.5
-pyzmq==23.1.0
 requests==2.27.1
 rich==12.4.4
+scikit-learn==1.1.1
 scipy==1.8.1
 seaborn==0.11.2
 semver==2.13.0
@@ -86,6 +83,7 @@ stack-data==0.2.0
 streamlit==1.10.0
 tenacity==8.0.1
 terminado==0.15.0
+threadpoolctl==3.1.0
 tinycss2==1.1.1
 toml==0.10.2
 toolz==0.11.2
