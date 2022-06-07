@@ -54,5 +54,4 @@ docker run --publish <port number> <image-name>
 docker run --publish 8501:8501 classifier:latest
 ```
 
-# Thank You For Reading
-
+# **Thank You For Reading**
